@@ -23,7 +23,9 @@ Since our final product is a video game, the game should meet following goals:
 
 **Singleplayer Mode**: Multiple games can be run synchronously. When 4 people joined to play singleplayer mode with AI at the same time, server will create 4 separate room for them so that they can play just like the image below.
 ![image](https://user-images.githubusercontent.com/69894554/162333109-90437082-9111-4b77-947d-d7125249f5d8.png)
-
+ 
+## Demo Video
+![image](https://www.kapwing.com/videos/6253f258ce0d2f0059eaae4b)
 
 ## Contribution
 ### [Hardware_Nick](https://github.com/UBC-CPEN391/l2c-39/tree/main/hardware)
