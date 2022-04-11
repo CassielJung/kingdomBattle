@@ -1,0 +1,9 @@
+/hps_isw_handoff
+/db
+/incremental_db
+/output_files
+/.qsys_edit
+/textures/*.png
+*.bak
+*.qws
+*.sof

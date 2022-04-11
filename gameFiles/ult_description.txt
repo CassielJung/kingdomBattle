@@ -1,0 +1,14 @@
+Ultimate 0:
+    No ultimate.
+
+Ultimate 1 (Passive):
+    The player is able to automatically totally block the damage received in the first attack. 
+
+Ultimate 2 (Passive):
+    The player breed with health of 25 
+
+Ultimate 3 (Active):
+    Duplicate opponent's behaviour
+
+Ultimate 4 (Active):
+    Remove the object's shield. 

@@ -1,0 +1,6 @@
+# ninja log v5
+1	89	6680368933458726	CMakeFiles/Project_C.dir/main.c.obj	f99ad17635f8074c
+2	445	6680369787569533	build.ninja	c62629cf655d5234
+89	189	6680368934428741	Project_C.exe	2f02f267b5522f9c
+13	104	6680368749847615	CMakeFiles/Project_C.dir/User_Input.c.obj	68889308d70b9ddd
+16	103	6680368749837591	CMakeFiles/Project_C.dir/Card_Function.c.obj	e75178f89e177c33

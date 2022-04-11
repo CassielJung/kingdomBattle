@@ -1,0 +1,41 @@
+	arm u0 (
+		.buff_export               (<connected-to-buff_export>),               //               buff.export
+		.card_select_export        (<connected-to-card_select_export>),        //        card_select.export
+		.clk_clk                   (<connected-to-clk_clk>),                   //                clk.clk
+		.ending_info_export        (<connected-to-ending_info_export>),        //        ending_info.export
+		.enemy_card_used_export    (<connected-to-enemy_card_used_export>),    //    enemy_card_used.export
+		.enemy_card_visible_export (<connected-to-enemy_card_visible_export>), // enemy_card_visible.export
+		.enemy_hp_export           (<connected-to-enemy_hp_export>),           //           enemy_hp.export
+		.enemy_shield_export       (<connected-to-enemy_shield_export>),       //       enemy_shield.export
+		.initial_screen_export     (<connected-to-initial_screen_export>),     //     initial_screen.export
+		.keycode_export            (<connected-to-keycode_export>),            //            keycode.export
+		.keycode_reset_export      (<connected-to-keycode_reset_export>),      //      keycode_reset.export
+		.memory_mem_a              (<connected-to-memory_mem_a>),              //             memory.mem_a
+		.memory_mem_ba             (<connected-to-memory_mem_ba>),             //                   .mem_ba
+		.memory_mem_ck             (<connected-to-memory_mem_ck>),             //                   .mem_ck
+		.memory_mem_ck_n           (<connected-to-memory_mem_ck_n>),           //                   .mem_ck_n
+		.memory_mem_cke            (<connected-to-memory_mem_cke>),            //                   .mem_cke
+		.memory_mem_cs_n           (<connected-to-memory_mem_cs_n>),           //                   .mem_cs_n
+		.memory_mem_ras_n          (<connected-to-memory_mem_ras_n>),          //                   .mem_ras_n
+		.memory_mem_cas_n          (<connected-to-memory_mem_cas_n>),          //                   .mem_cas_n
+		.memory_mem_we_n           (<connected-to-memory_mem_we_n>),           //                   .mem_we_n
+		.memory_mem_reset_n        (<connected-to-memory_mem_reset_n>),        //                   .mem_reset_n
+		.memory_mem_dq             (<connected-to-memory_mem_dq>),             //                   .mem_dq
+		.memory_mem_dqs            (<connected-to-memory_mem_dqs>),            //                   .mem_dqs
+		.memory_mem_dqs_n          (<connected-to-memory_mem_dqs_n>),          //                   .mem_dqs_n
+		.memory_mem_odt            (<connected-to-memory_mem_odt>),            //                   .mem_odt
+		.memory_mem_dm             (<connected-to-memory_mem_dm>),             //                   .mem_dm
+		.memory_oct_rzqin          (<connected-to-memory_oct_rzqin>),          //                   .oct_rzqin
+		.my_card_1_export          (<connected-to-my_card_1_export>),          //          my_card_1.export
+		.my_card_2_export          (<connected-to-my_card_2_export>),          //          my_card_2.export
+		.my_card_3_export          (<connected-to-my_card_3_export>),          //          my_card_3.export
+		.my_card_used_export       (<connected-to-my_card_used_export>),       //       my_card_used.export
+		.my_hp_export              (<connected-to-my_hp_export>),              //              my_hp.export
+		.my_shield_export          (<connected-to-my_shield_export>),          //          my_shield.export
+		.reset_reset_n             (<connected-to-reset_reset_n>),             //              reset.reset_n
+		.round_export              (<connected-to-round_export>),              //              round.export
+		.time_export               (<connected-to-time_export>),               //               time.export
+		.ult_info_export           (<connected-to-ult_info_export>),           //           ult_info.export
+		.show_instr_export         (<connected-to-show_instr_export>)          //         show_instr.export
+	);
+

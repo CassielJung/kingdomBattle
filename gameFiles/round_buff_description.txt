@@ -1,0 +1,10 @@
+Round Buff 0:
+    All active ultimate are disabled. 
+
+Round Buff 1:
+    Double the shield
+
+Round Buff 2:
+    Double the damage; 
+
+    

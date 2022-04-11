@@ -1,0 +1,4 @@
+Input the current status of the player, and the card he used already, round buff, and ultimate
+
+Output -> the preference list of the card..., choose one of the three cards based on the preference list
+
